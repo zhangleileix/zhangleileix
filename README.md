@@ -1,7 +1,7 @@
 ### Leilei Zhang
-你好，我是Leilei Zhang, 
-常用昵称：南风大叔
-常用头像：芦田爱菜
+你好，我是Leilei Zhang, <br/>
+常用昵称：南风大叔 <br/>
+常用头像：芦田爱菜 <br/>
 常用ID：citypatient、zhangleileix、changleo
 
 ### 我喜欢
